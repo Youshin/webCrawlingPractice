@@ -3,8 +3,8 @@ from selenium.webdriver.common.keys import Keys
 import time
 import pyperclip
 import random
-_id = 'dragon_1411'
-_pw = 'dbtls141!'
+_id = ''
+_pw = ''
 driver = webdriver.Chrome('chromedriver.exe')
 driver.get('https://www.naver.com')
 
